@@ -22,7 +22,7 @@ Advantages:
 - 100% MIT Licensed, not GPL keep your code yours.
 - Naturally Caffeine free
 - Smaller than other JavaScript parallax plugins, like Scrollorama (they do fantastic things, but can be too heavy for simple needs)
-- Super simple to install, and works with animate.css, so if you already use it, that will be very fast to setup
+- Super simple to install, and works with animate.css, so if you already use it, that will be very fast to set up
 - Fast execution and lightweight code: the browser will like it ;-)
 - You can change the settings - [see below](#advanced-usage)
 
@@ -37,7 +37,7 @@ Advantages:
 
 ## Documentation
 
-It just take seconds to install and use WOW.js!
+It just takes seconds to install and use WOW.js!
 [Read the documentation ➫](https://graingert.co.uk/WOW/docs.html)
 
 ### Dependencies
